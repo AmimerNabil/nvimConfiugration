@@ -4,3 +4,5 @@
 vim.o.tabstop = 4 -- Number of spaces tabs count for
 vim.o.softtabstop = 4 -- Number of spaces in tab when editing
 vim.o.shiftwidth = 4 -- Number of spaces used for auto-indenting
+
+vim.g.mkdp_echo_preview_url = 1
